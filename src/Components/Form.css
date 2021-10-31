@@ -1,0 +1,29 @@
+input{
+    margin-top:0.2em;
+    width: 30%;
+    padding: 15px;
+    border-style: outset;
+    margin-left: 15px
+}
+
+button{
+    background-color: rgba(14, 164, 252, 0.651);
+    padding: 15px;
+    border-style: none;
+    color: white;
+    cursor: pointer;
+    transition: ease-in 0.5s;
+}
+
+button:hover{
+    background-color: rgba(11, 245, 69, 0.651);
+}
+
+.logo{
+    color: #8fba00;
+    font-size: 4.2em;
+}
+
+.mg{
+    margin-top:4rem;
+}
